@@ -1,3 +1,3 @@
-# the main header
+# game file
 
 normal discriptions
